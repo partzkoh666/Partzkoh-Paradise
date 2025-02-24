@@ -4,8 +4,6 @@
 @Partzkoh-
 Paradise
 
-
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...![-c1d0kc](https://github.com/user-attachments/assets/53a9c4dc-08ad-452f-a5c2-2b76256c46d1)
 
